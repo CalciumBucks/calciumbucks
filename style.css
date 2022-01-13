@@ -1,0 +1,15 @@
+@font-face {
+    font-family: ComicSans;
+    src: url("comic.ttf");
+  }
+  ComicSans {
+    font-family: ComicSans;
+  }
+
+redText {
+    color:red;
+}
+
+body {
+    background-color: gray;
+  }
