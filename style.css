@@ -13,3 +13,7 @@ redText {
 body {
     background-color: gray;
   }
+
+.comicsans {
+    font-family: ComicSans;
+}
