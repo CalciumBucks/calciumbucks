@@ -19,7 +19,7 @@ body {
 }
 
 .redirectButton {
-  background: white;
+  background: gray;
   border: black;
   color: rgb(0, 0, 0);
   text-align: center;
