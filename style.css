@@ -6,12 +6,8 @@
     font-family: ComicSans;
   }
 
-redText {
-    color:red;
-}
-
 body {
-    background-color: rgb(95, 95, 95);
+    background-color: #121212;
   }
 
 .comicsans {
@@ -47,4 +43,11 @@ body {
 .topMenu a:hover {
   background-color: white;
   color: black;
+}
+
+.goldGradient {
+  background-image: linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C); 
+  background-clip: text; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
 }
