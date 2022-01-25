@@ -28,7 +28,7 @@ body {
 .topMenu {
   overflow: hidden;
   background-color: black;
-  border-radius: 25px;
+  border-radius: 15px;
 }
 
 .topMenu a {
@@ -36,8 +36,8 @@ body {
   color: white;
   text-align: center;
   text-decoration: none;
-  font-size: 50px;
-  padding: 20px;
+  font-size: 25px;
+  padding: 10px;
 }
 
 .topMenu a:hover {
